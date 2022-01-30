@@ -1,0 +1,29 @@
+{
+  "scriptFile": "__init__.py",
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "myblob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "resumes/{name}",
+      "connection": "novadocstoragecv_STORAGE"
+    },
+    {
+      "name": "inputBlob",
+      "type": "blob",
+      "direction": "in",
+      "dataType": "binary",
+      "path": "resumes/{name}",
+      "connection": "novadocstoragecv_STORAGE"
+    },
+    {
+      "name": "outputBlob",
+      "type": "blob",
+      "dataType": "binary",
+      "path": "output/{name}[OUT].json",
+      "connection": "novadocstoragecv_STORAGE",
+      "direction": "out"
+    }
+  ]
+}

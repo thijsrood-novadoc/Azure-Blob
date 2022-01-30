@@ -1,0 +1,303 @@
+CV Sijmon van den Berg (Augustus 2020) Pagina 1 van 7
+Curriculum vitae
+Persoonlijke gegevens
+Naam : Sijmon van den Berg
+Geslacht : Mannelijk
+Geboortedatum : 25 februari 1965
+Woonplaats : Bussum
+Nationaliteit
+Telefoon
+E-mail
+:
+:
+:
+Nederlands
+06-53521960
+sijmon@symbeco.nl
+Profielschets
+Jarenlange ervaring in het uitvoeren van nationale – en internationale (IT) projecten in de 
+financiële dienstverlening. Implementaties van KYC (Know Your Customer) & Fraud, beleid, 
+software (systemen), BPM, datakwaliteit, cash & treasury products en 
+coördineren/controleren hypotheken database conversies.
+Relevante werkervaring
+Symbeco Application Services okt 2007 - heden
+Functies
+04/2020 - heden
+04/2019 – 03/2020
+: Consultant / Business Consultant/Analist / Functioneel beheerder
+Sr. Application Consultant, Stater
+Backoffice domein.
+- Opstellen van functionele requirements
+- Vertalen functionele vragen naar oplossingen in systemen en processen
+- Optimaliseren backoffice hypotheekprocessen voor geldgevers
+- Het verbeteren van de bestaande situaties en processen
+- Vertalen business vraagstukken in functionele/technische oplossingen
+- Problem solving
+- Stakeholder management
+- Analyseren, uitwerken en implementeren nieuwe producten.
+Sr. Business Analyst, Triodos Bank
+KYC & Fraud domein voor de zakelijke – en de particuliere segmenten.
+- Intermediair tussen de Nederlandse branch en het KYC & Fraud domein
+- Uitvoeren van werkzaamheden voor meerdere branches op het gebied 
+van klantintegriteit en fraude
+- Nauw samenwerken met informatieanalisten in het IT team
+- Uitwerken van epics van het KYC&Fraud domein
+- Vertalen IT oplossingen naar end-to-end processen operationele teams
+- Nauwkeurig vastleggen end-to-end procesbeschrijvingen
+- Signaleren procesverbeteringen die vertaald worden in user stories
+- Readywerk (ontwerp en realisatie) voor IT scrumteam
+- Analyseren impact van procesverbeteringen op de business
+- Prioriteren backlog van diverse IT teams
+CV Sijmon van den Berg (Augustus 2020) Pagina 2 van 7
+12/2017 – 03/2019
+04/2017 – 11/2017
+11/2014-03/2017
+- Uitdenken en afstemmen target oplossingen met stakeholder
+- Implementeren KYC processen op basis van beleid
+- Risk Assesment Form en stappenplan ontwikkeld voor analisten
+- Event registratietool t.b.v. de business (MS Access) ontwikkeld
+- Opleveren informatieproducten (o.a. stappenplan)
+- Vastlegging processen in Visual Paradigm
+De optimalisatie en inrichten van processen en systemen werd uitgevoerd 
+voor de segmenten Retail zakelijk, Zakelijke relaties, Retail particulieren, 
+Private Banking en Hypotheken. En werd samengewerkt met afdelingen 
+zoals Compliance en Fraude voor afstemming van het juiste beleid.
+Sr. Business Analyst, ING BV
+Tribe Customer Information Management, squad TwoFlow (Know Your
+Customer).
+- In kaart brengen huidige (deel)procesinrichting
+- Uitvragen, analyseren en uitwerken oplossingen
+- Uitdenken en afstemmen target oplossingen met stakeholder
+- Readywerk (ontwerp) voor IT scrumteam
+- Coördineren werkzaamheden ontwikkelaars in sprints
+- Voorbereiden acceptatietesten en geven van demo’s
+- Vastlegging oplossingen in ARIS/BPM 3.0
+- Doorvertalen KYC Beleid / Guidance in target proces
+De werkzaamheden worden uitgevoerd in een agile/scrum omgeving 
+samen met internationale collega’s en bevatten het schrijven van user 
+stories inzake het optimaliseren en vernieuwen van de klantprocessen in 
+PEGA. Naast het analytisch vermogen en resultaatgericht werken speelt 
+organisatiesensitiviteit hier een grote rol. Daarnaast wordt opleiding en 
+demo’s gegeven aan de segmenten MASS, SME, PRIBA/Wealth, Corporate 
+products en het zakelijk segment van ING.
+Business Analyst, Stater BV
+Optimalisatie klantprocessen
+In een Agile/Scrum team om voor ABN de administratie van de 
+hypotheken te digitaliseren. En indien mogelijk automatisch verwerken. 
+Hiervoor zijn epics uitgewerkt in user stories en use cases waarbij de 
+opgeleverde kwaliteit gewaarborgd werd. En zijn projectvoorstellen 
+geïnitieerd ter invulling van de informatiebehoefte. De klant (ABN) is 
+vervolgens actief betrokken en geïnformeerd over de geautomatiseerde 
+toepassingen. In een actieve rol vond de oplevering van de 
+informatieproducten aan de klant plaats in de vorm van bijvoorbeeld een 
+demo of presentatie. De user stories werden uitgewerkt in Jira en werd 
+het proces via het ready- en scrumboard gevolgd. Samen met het team 
+afspraken gemaakt om de deadlines te halen in tweewekelijkse sprints. 
+Business Analyst, Stater BV
+Conversie van de hypothekenportefeuilles Reaal, a.s.r. en Direktbank.
+CV Sijmon van den Berg (Augustus 2020) Pagina 3 van 7
+09/2013-10/2014
+03/2012-08/2013
+04/2010-02/2012
+09/2009-03/2010
+07/2009-08/2009
+Het gaat hier om de uitconversies van de systemen ATvance (Ordina) en 
+eSMEe naar het systeem iSHS (Stater) via ETL (Microsoft SQL Server 
+Integration Services). Uitvoeren business analyse m.b.t. de uit- en 
+inconversie en maken van beslisdocumenten. Schrijven van user stories, 
+proces analyse en verbetering, opstellen (financiële) controlemodellen
+voor overdracht portefeuilles en aansluiting bron- en doelsysteem. Voor 
+gebruikers beschikbaar stellen van historische data die ontsloten wordt 
+via een MS Accesapplicatie.
+Business Analyst, ABN Amro Hypothekengroep
+Conversie van de hypothekenportefeuille van MNF Bank. 
+Het gaat hier om de uitconversie van het systeem ATvance (Ordina) naar 
+het systeem iSHS (Stater) via ETL (Microsoft SQL Server Integration 
+Services). Uitvoeren business analyse m.b.t. de uit- en inconversie.
+Opstellen controlemodellen en maken rapportages en 
+datavergelijkingen m.b.v. Crystal Reports. En voor gebruikers overige 
+gegevens van spaarhypotheken ontsloten via een MS Accesapplicatie.
+Business Analyst, Quion
+Inconversie van de klantportefeuille DSB, hypothecair en consumptief in 
+het systeem Force van Topicus. 
+Uitvoeren business analyse, inregeling Force voor nieuwe processen en 
+aanpassen bestaande processen, opstellen van processen en analyseren 
+systeem- en functionele bevindingen. Daarnaast de nieuwe processen
+uitgewerkt in Enterprise Architect.
+Business Analyst, WestlandUtrecht Bank
+Opstellen business-, customer- en system requirements in het kader van 
+VIA (Vooraf Ingevulde Aangifte Inkomstenbelasting).
+Dit betrof spaar-, leen-, hypotheek- en beleggingsproducten van 
+WestlandUtrecht Bank voor een kleine 1 miljoen klanten. Hiervoor zijn 
+workshops gehouden om vanuit de business draagvlak te creëren voor de 
+te implementeren oplossingen. En ondersteuning geleverd op het gebied 
+van het testen van de opgeleverde requirements, uitvoering van een 
+dataschoningstraject (deel projectleider) voor verrijking van de systemen 
+en het schrijven en borgen van het proces en procesbeschrijvingen. 
+Daarnaast bezig met het project data integratie om hiervoor de 
+datakwaliteit te bepalen en het Deposito Garantie Stelsel.
+Analist/Technisch ontwerper - De Hypothekers Associatie BV
+Ontwikkelen van een Totaal Advies Systeem (hypotheken frontoffice 
+adviessysteem).
+Business Analist - ABN AMRO Bank
+Analyseren, specificeren en ontwikkelen van social economische 
+rapporten t.b.v. de DNB (Axiom).
+CV Sijmon van den Berg (Augustus 2020) Pagina 4 van 7
+10/2008-06/2009
+01/2007-09/2008
+04/2001-12/2006
+03/1999-03/2001
+04/1998-02/1999
+01/1997-03/1998
+01/1989-12/1996
+Business Consultant – ING
+Beschrijven, schematiseren en implementeren van bedrijfsprocessen 
+t.b.v. het project Glossy (leadgeneratie Sales Forces en kanalen MKB, 
+Pensioenen, Personal- en Private Banking).
+Functional Enterprise Solution Consultant III - Ordina Finance Solutions
+Software implementaties bij verschillende klanten van Ordina.
+Consultant – Infra Design
+Maken functionele ontwerpen en uitvoeren software implementaties bij 
+verschillende klanten van Ordina.
+Senior Consultant – XRT Cerg
+Implementaties van Cash & Treasury software CTM bij (inter)nationale 
+bedrijven.
+Verantwoordelijk voor implementatie van Cash & Treasury Software 
+(CTM) bij (internationale) bedrijven: voeren van gesprekken met de klant 
+(analyse) om producten en bedrijfssituatie in kaart te brengen, uitwerken 
+analyse en terugkoppelen rapport naar klant, parameteriseren en
+installeren van de software, database en verzorgen koppeling met
+electronic banking systemen van diverse banken t.b.v. Treasury 
+management. Naast de implementaties werden producttrainingen voor
+eindgebruikers verzorgd.
+Verder productverantwoordelijk voor CTM: indienen productaanpassingen conform de markt in Nederland (fouten en wensen), testen 
+nieuwe releases en vervaardigen converters voor bankbestanden.
+En productverantwoordelijk voor ARS (Automatic Reconsiliation System). 
+Softwareprogramma waarmee reconciliatie van electronische 
+dagafschriften uit electronic banking pakketten met exportbestanden 
+(AP/AR) uit het Grootboek (G/L) werd uitgevoerd.
+Backup voor software installaties anders dan CTM installaties. O.a. 
+software waarmee betaalbestanden uit bijvoorbeeld een ERP-systeem 
+werden geconverteerd naar een vast formaat waarna communicatie met 
+een server van een betreffende bank werd opgestart.
+Als extra project zorggedragen voor het centraliseren van de Nederlandse 
+- en Belgische helpdesk in Antwerpen.
+Consultant IDM - IG&H Management Consultancy
+Ontwikkelen performance onderzoeken voor schade- en leven 
+verzekeraars.
+Assistent Marketing & Communicatie - Bovemij NV
+Ondersteunen Marketing & Communicatiebeleid.
+Assistent Marketing & Communicatie - Sun Alliance Verzekeringen
+Ondersteunen Marketing & Communicatiebeleid.
+CV Sijmon van den Berg (Augustus 2020) Pagina 5 van 7
+01/1987-12/1988 Administratief medewerker - Europcar Autoverhuur
+Verwerken contracten en betalingen inzake autoverhuur.
+Competenties
+Organisatiesensitief: in staat om binnen een complexe organisatie tot een goed resultaat 
+te komen
+Zelfstandige en proactieve werkhouding: in staat om zelfstandig maar ook in 
+teamverband werkzaamheden uit te voeren. Stelt vragen, challenged, structureert en 
+biedt oplossing aan
+Communicatieve vaardigheden: goede schriftelijke en mondelinge vaardigheden 
+(Nederlands, Engels en Duits)
+Intermediaire functie: bevat vaardigheden om techniek te vertalen naar begrijpelijke 
+rapportages of processen
+Katalysator: structureel verbeteren data consumptie en data aanlevering
+Business waarde: omzetten vragen vanuit de business naar needs op het gebied van 
+data(management) en helpen bij het in kaart brengen en realiseren van de business 
+waarde van veranderingen.
+Algemene opleidingen
+HBO Bachelor Bedrijfskundige Informatica
+Specialiteit: kwaliteits- en procesmanagement
+Scriptie: Onderzoek datakwaliteit hypotheken mid- en backoffice
+Nationale-Nederlanden (leverancier Everest)
+MEAO – CE
+De Factoor - Zwolle
+ NCOI 2012
+ 
+Diploma 1985
+MAVO - 4 
+Prins Willem Alexander Mavo - IJsselmuiden
+Diploma 1982
+CV Sijmon van den Berg (Augustus 2020) Pagina 6 van 7
+Cursussen/trainingen
+Agile/scrum
+Xebia
+BISL foundation
+CVA
+Cursus Adviesstijlen
+Ordina
+Prince II foundation
+Ordina
+UML
+Ordina
+RUP
+Ordina
+jun 2016
+ 
+jun 2008
+ aug 2007 
+ apr 2007
+juni 2007
+juli 2007
+Basiscursus SQL
+Ordina
+Consultancy Skills
+Cap Gemini Ernst & Young
+ dec 2006
+ nov 2004
+ITIL compact
+CVA
+mei 2003
+Masterclass hypotheekproces voor projectmedewerkers en ITers
+Hypsotech
+ okt 2001
+ aug 2005
+Basistraining ABN AMRO Treasury Management
+ABN AMRO
+Selling Solutions
+(SPI te Frankrijk)
+ 2000
+ 2000
+Applicatiebeheer en gegevensinvoer SCOPE
+Scope
+1998
+Inleiding voor het verzekeringsbewijs
+Nibe
+1997
+CV Sijmon van den Berg (Augustus 2020) Pagina 7 van 7
+Overige kennis
+Hypotheek
+Uitgebreide kennis van het hypotheekdomein
+Verzekeringen
+Kennis van het verzekeringswezen
+BI
+Business Objects (Crystal Reports)
+SQL
+Microsoft SQL Server Management Studio
+Microsoft Query
+ASE ISQL
+Processen
+Aris/BPM 3.0
+Enterprise Architect
+Visual Paradigm
+Workflow
+Blueriq
+NIMA - A
+Nederlands Instituut voor Marketing
+NIMA PR - A 
+Nederlands Instituut voor Marketing Public Relations 
+DSDM 
+Dynamic System Development Method
+TMAP
+Methodiek voor gestructureerd testen
+Oracle
+SQL Enterprise Manager, TOAD
+MSoffice
+Word, Excel, Powerpoint, Access, Visio
+BPM/CRM
+PEGA
+Talen
+Nederlands
+Engels
+Duits

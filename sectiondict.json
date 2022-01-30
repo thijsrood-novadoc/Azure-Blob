@@ -1,0 +1,118 @@
+{
+    "Naam": [
+    ],
+    "E-mail": [
+        "email",
+        "e-mail"
+    ],
+    "LinkedIn": [
+        "linkedin"
+    ],
+    "Telefoon": [
+        "telephone",
+        "phone",
+        "telefoon",
+        "tel",
+        "gsm"
+    ],
+    "Profiel": [
+        "curriculum vitae",
+        "cv",
+        "profile",
+        "profiel",
+        "basic",
+        "personalia",
+        "information",
+        "professional profile",
+        "persoonsgegevens",
+        "contact opnemen",
+        "kandidaat gegevens"
+    ],
+    "Introductie": [
+        "summary",
+        "motivatie",
+        "experience summary",
+        "summary of qualifications",
+        "wie ben ik?",
+        "over mij",
+        "about me",
+        "introductie",
+        "introduction"
+    ],
+    "Werkervaring": [
+        "work experience",
+        "work experience details",
+        "werkervaring",
+        "werkervaringen",
+        "professionele werkervaring",
+        "professional experience",
+        "experience",
+        "industry experience",
+        "werk",
+        "projects",
+        "loopbaan",
+        "rollen",
+        "branche ervaring",
+        "interne projecten",
+        "werk historie",
+        "ervaringsoverzicht"
+    ],
+    "Opleiding": [
+        "education",
+        "educatie",
+        "opleidingen",
+        "opleiding",
+        "training & certifications",
+        "key courses and training",
+        "cetrificaten",
+        "trainingen",
+        "vooropleidingen",
+        "getrained in",
+        "cursussen en trainingen",
+        "cursussen"
+    ],
+    "Kwaliteiten": [
+        "characteristics",
+        "eigenschappen",
+        "kwaliteiten",
+        "competenties"
+    ],
+    "Skills": [
+        "skills",
+        "key skills",
+        "vaardigheden",
+        "professional skills",
+        "knowledge & expertise",
+        "programming",
+        "technical",
+        "technical skills",
+        "vaardigheden set",
+        "development vaardigheden",
+        "talen en vaardigheden"
+    ],
+    "Talen": [
+        "languages",
+        "talen",
+        "taalbeheersing",
+        "taalkennis niveau"
+    ],
+    "Interesses": [
+        "interests",
+        "hobbies and interests",
+        "hobbies",
+        "interest",
+        "interesses",
+        "nevenactiviteiten",
+        "persoonlijke interesse",
+        "hobby's"
+    ],
+    "Overige Exploratie": [
+        "other",
+        "other projects",
+        "overige exploratie",
+        "additional information",
+        "overig"
+    ],
+    "Andere Informatie": [
+    ]
+}
